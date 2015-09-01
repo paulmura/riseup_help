@@ -1,12 +1,12 @@
 @title = "Accueil"
 @this.layout = 'home'
 @this.toc = false
-@this.summary = "Riseup fournit des outils de communication informatique pour les personnes et les groupes qui militent en faveur d'un changement social libérateur. Nous souhaitons créer des alternatives démocratiques en autogérant des moyens de communication sécuritaires."
+@this.summary = "Riseup fournit des outils de communication informatique pour les personnes et les groupes qui militent en faveur d'un changement social libérateur. Nous souhaitons créer des alternatives démocratiques en autogérant des moyens de communication sécurisés."
 
 
 h2. Courriel <small>https://mail.riseup.net</small>
 
-Nous fournissons des comptes de courriel privés et sécuritaires, accessibles via le web, un terminal, IMAP ou POP. [[Obtenir de l'aide pour les courriels => email]]. "Se connecter à l'interface web":https://mail.riseup.net. "Obtenir un compte":https://user.riseup.net/forms/new_user. "Réinitialiser un mot de passe perdu":https://user.riseup.net/forms/password_reset/first. "Modifier ma configuration":https://user.riseup.net.
+Nous fournissons des comptes de courriel privés et sécurisés, accessibles via le web, un terminal, IMAP ou POP. [[Obtenir de l'aide pour les courriels => email]]. "Se connecter à l'interface web":https://mail.riseup.net. "Obtenir un compte":https://user.riseup.net/forms/new_user. "Réinitialiser un mot de passe perdu":https://user.riseup.net/forms/password_reset/first. "Modifier ma configuration":https://user.riseup.net.
 
 h2. Listes courriels <small>https://lists.riseup.net</small>
 
@@ -16,10 +16,10 @@ h2. Nouveaux services
 
 Nous mettons à l'essai des services de [*[[vpn]]*], de [*[[chat]]*], et [*"d'etherpad":https://pad.riseup.net*]. Ces services sont encore en construction et peuvent parfois être instables. Si vous voulez nous aider à les tester, n'hésitez pas à les essayer.
 
-h2. Resources
+h2. Ressources
 
 *[[Sécurité => security]]*
-Ressources et tutoriels pour des communications plus sécuritaires.
+Ressources et tutoriels pour des communications plus sécurisées.
 
 *"Kiosque d'aide":https://user.riseup.net/forms*
 Pour nous poser des questions, veuillez utiliser le kiosque d'aide pour créer des billets de dépannage. Mais avant tout, n'oubliez pas de bien lire la documentation sur ce site et de faire des recherches préliminaires.
