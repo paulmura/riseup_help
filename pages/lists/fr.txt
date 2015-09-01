@@ -1,0 +1,31 @@
+@title = 'Les listes Riseup'
+@nav_title = 'Listes'
+
+!>(image-right)pile-of-mail.jpg!
+
+h2. Bienvenue !
+
+Bienvenue sur l'*aide des listes de diffusion* riseup.net ! Vous trouverez ici de l'aide sur les listes de diffusion hébergées chez https://lists.riseup.net.
+
+Pour de l'aide sur les comptes de courriel riseup.net, voyez les pages d'aide [[email]]. Si vous ne trouvez pas de réponse à votre question ici, "créer un ticket de demande d'aide" : https://user.riseup.net/forms.
+
+h2. Principales questions pour l'administrateur d'une liste
+
+* [[Comment créer une liste ? => creating-lists]]
+* [[Comment changer le propriétaire de la liste ? => list-definition#changing-owners]]
+* [[Comment gérer les rebonds ? => bounces]]
+* [[Comment changer le nom de la liste ? => list-admin/faq#how-do-I-change-the-list-name]]
+* [[Que signifie "FYI: automatic_del" ? => list-admin/faq#what-does-fyi-automatic_del-mean]]
+* [[Toutes les questions fréquentes d'administration => list-admin/faq]]
+
+h2. Principales questions pour l'abonné de liste
+
+* [[Comment modifier l'adresse d'abonnement ? => list-user/accounts#how-do-i-change-my-subscription-address]]
+* [[Pourquoi mon courriel adressé à une liste riseup est-il bloqué comme pourriel (spam) ? => list-user/sending-mail#why-is-my-email-to-a-riseup-list-being-blocked-as-spam]]
+* [[Toutes les questions fréquentes de l'abonné => list-user]]
+
+h2. À propos de lists.riseup.net
+
+Le service de listes de diffusion https://lists.riseup.net existe uniquement grâce à vos dons. Si vous souhaitez en assurer la survie, [[faites un don]] !
+
+https://lists.riseup.net utilise uniquement des logiciels "libres":https://www.gnu.org/philosophy/free-sw.html, dont le "gestionnaire de listes sympa":http://www.sympa.org/, le "serveur web apache":https://httpd.apache.org/, le système d'exploitation "debian GNU/Linux":https://www.debian.org et le langage de programmation "Perl":http://www.perl.org.
